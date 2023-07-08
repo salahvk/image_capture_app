@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:image_capture_app/presentation/image_display_screen.dart';
-import 'package:image_capture_app/presentation/start_screen.dart';
+import 'package:image_capture_app/screens/presentation/image_display_screen.dart';
+import 'package:image_capture_app/screens/presentation/start_screen.dart';
 
 class Routes {
   static const String startScreen = '/';
